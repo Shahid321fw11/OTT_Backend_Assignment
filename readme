@@ -1,0 +1,10 @@
+This will be a collaborative assignment where all candidates will create a single project and will work together.
+Each candidate will be provided different tasks and they will have to commit and  start pull on  every task separately. Based on the code review your request will be merged to main branch.
+
+READ ASSIGNMENT DETAILS CAREFULLY. MODELS & CONTROLLERS WILL BE CREATED AS PER ASSIGNMENT DETAILS
+
+#task1 : Create NODE_EXPRESS SERVER
+#task2 : INSTALL & USE .env, bcryptjs, moment, mongoose, nodemon, axios, morgan, multer, aws-sdk, jsonwebtoken, nodemailer
+#task3 : Setup folder structure with controllers, models, utils, routes, middlewares, seed under src (if you use better folder hierarchy use it.
+#task4 : Create user models, api and authentications controllers, with tokens and refresh tokens.
+#task5 : Create home screen APIs ==> Main slider banner api, category api
